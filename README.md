@@ -3,9 +3,18 @@
 > Update your minecraft from Beta To Full License.
 > <p align="center"</p><img src="https://discord.c99.nl/widget/theme-2/447411230098063362.png">
 
+<hr>
+
+<h2><p align="center">Before Crack Minecraft</h2></p>
 <p align="center">
-  <img src="https://github.com/penucuriCode/Crack.License.MinecraftWin10/blob/main/screenshot/Capture.PNG"></a>
+  <img src="https://github.com/GarudaID/Crack-License-MinecraftWin10/blob/main/before.PNG" width="599" height="299"></a>
   </p>
+  <hr>
+  <h2><p align="center">After Crack Minecraft</h2></p>
+<p align="center">
+  <img src="https://github.com/GarudaID/Crack-License-MinecraftWin10/blob/main/after.PNG" width="599" height="299"></a>
+  </p>
+  <hr>
 
 ## Features
 
@@ -16,9 +25,9 @@
 
 ## Link Download License / Tutorial how to use
 
-- How to use license: https://www.youtube.com/watch?v=zpI11HVC1_4
+- [Tutorial] How to use license: https://www.youtube.com/watch?v=zpI11HVC1_4
 - Download Minecraft Windows 10: https://www.xbox.com/en-us/games/store/minecraft-for-windows/9nblggh2jhxj
-- Download License Windows 10: https://cararegistrasi.com/fahcTbCQvRcu
+- Download License Windows 10: https://bit.ly/3JnLr3n
 
 ## Troubleshooting
 
