@@ -29,8 +29,17 @@
 ## Link Download License / Tutorial how to use
 
 - [Tutorial] How to use license: https://www.youtube.com/watch?v=zpI11HVC1_4
-- Download Minecraft Windows 10: https://www.xbox.com/en-us/games/store/minecraft-for-windows/9nblggh2jhxj
-- Download License Windows 10: https://bit.ly/3JnLr3n
+- Minecraft ON: http://www.mediafire.com/file/43ugukc4oupimfb/Minecraft_ON.reg/file
+- Minecraft OFF: http://www.mediafire.com/file/r742uy9jhwy8ou0/Minecraft_OFF.reg/file
+- Download Minecraft for Windows: https://www.xbox.com/en-us/games/store/minecraft-for-windows/9nblggh2jhxj
+
+- **[Details]**
+- Step 1: Download Minecraft Trial and all files (link above)
+- Step 2: Open Minecraft, while Minecraft is loading, open and run file "Minecraft ON"
+- Step 3: Minecraft should unlocked
+- Step 4: **Important** Open and run file "Minecraft OFF" to unlock Minecraft forever
+- Step 5: Enjoy!
+- Step 6: **Please FORK and STAR this repo.**
 
 ## Troubleshooting
 
